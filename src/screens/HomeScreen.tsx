@@ -105,6 +105,7 @@ export default function HomeScreen() {
       <View style={styles.header}>
         <Text style={styles.headerTitle}>SmartDealer Hub</Text>
         <Text style={styles.subtitle}>Comparativo de Vendas com IA</Text>
+        <Text style={styles.subtitle}>Desafio 1 - Inteligência Competitiva Automotiva</Text>
       </View>
 
 
