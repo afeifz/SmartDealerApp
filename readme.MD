@@ -236,17 +236,12 @@ yarn
 
 ## 3️⃣ Executar o projeto
 
-### Android
+
 
 ```bash
-npx react-native run-android
+npx expo start
 ```
 
-### iOS
-
-```bash
-npx react-native run-ios
-```
 
 ---
 
