@@ -7,8 +7,11 @@ O projeto consome uma API própria desenvolvida para gerar análises automotivas
 ### Integrantes
 
 Mohamed Afif Smaili RM 554445 
+
 Mateus dos Santos da Silva RM 558436 
+
 Nicolas Moreno Cardoso RM 557132 
+
 Andre Giovane RM 556384
 
 ---
