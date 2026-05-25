@@ -1,4 +1,4 @@
-# SmartDealer Hub 🚗🤖
+# SmartDealerApp 🚗🤖
 
 Aplicação mobile desenvolvida em **React Native + TypeScript** para realizar comparativos inteligentes entre veículos da Ford e seus concorrentes utilizando **Inteligência Artificial**.
 
